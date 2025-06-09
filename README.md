@@ -1,1 +1,4 @@
-# Algoritmo_Anotacoes_C
+# Algoritmo de Anotações em C.
+
+# Iniciar o Projeto
+
